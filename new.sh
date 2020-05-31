@@ -1,9 +1,9 @@
 # a million commits
-for Y in {1999..2018}
+for Y in {2020..2020}
 do
   mkdir $Y
   cd $Y
-  for M in {01..12}
+  for M in {01..5}
   do
     mkdir $M
     cd $M
